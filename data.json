@@ -29,7 +29,7 @@
 		{ "claimName": "Administration Device", "code": "ad" },
 		{ "claimName": "Training Device", "code": "td" },
 		{ "claimName": "Article of Manufacture", "code": "am" }, 
-		{ "claimName": "Methodology", "code": "md" }, 29
+		{ "claimName": "Methodology", "code": "md" },
 		{ "claimName": "Biomarkers", "code": "bi" },
 		{ "claimName": "Production", "code": "pr" },
 		{ "claimName": "Modification", "code": "mo" },
