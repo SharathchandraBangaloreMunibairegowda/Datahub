@@ -1,69 +1,365 @@
-{
-	"nodes": [
-		{ "claimName": "Antibody", "code": "tl" },
-		{ "claimName": "Antibody Sequence", "code": "ca" },
-		{ "claimName": "Bi-Specific", "code": "cm" },
-		{ "claimName": "Function", "code": "us" },
-		{ "claimName": "Properties", "code": "lt" },
-		{ "claimName": "Modified Antibody", "code": "kh" },
-		{ "claimName": "By Sugar", "code": "et" },
-		{ "claimName": "Crystal", "code": "sz" },
-		{ "claimName": "Chimeric", "code": "ar" },
-		{ "claimName": "Polynucleotide", "code": "bo" },
-		{ "claimName": "Vector", "code": "cm" },
-		{ "claimName": "Polynucleotide Sequence", "code": "bf" },
-		{ "claimName": "Formulation & Composition", "code": "gh" },
-		{ "claimName": "Macro", "code": "sa" },
-		{ "claimName": "Micro", "code": "si" },
-		{ "claimName": "Treatment", "code": "gt" }, 
-		{ "claimName": "Treatment For Condition XYZ", "code": "ba" },
-		{ "claimName": "Treatment is achieved XYZ", "code": "kw" },
-		{ "claimName": "Regimen", "code": "ru" },
-		{ "claimName": "Administration in Combination", "code": "jo" },
-		{ "claimName": "Inhibiting XYZ", "code": "lc" },
-		{ "claimName": "Vaccine", "code": "va" }, 
-		{ "claimName": "Prevention", "code": "es" }, 
-		{ "claimName": "Diagnostics", "code": "lr" },
-		{ "claimName": "Competition", "code": "nl" },
-		{ "claimName": "Drug Delivery Devices", "code": "py" }, 
-		{ "claimName": "Administration Device", "code": "om" },
-		{ "claimName": "Training Device", "code": "tz" },
-		{ "claimName": "Article of Manufacture", "code": "ga" }, 
-		{ "claimName": "Methodology", "code": "mc" },
-		{ "claimName": "Biomarkers", "code": "ye" },
-		{ "claimName": "Production", "code": "pk" },
-		{ "claimName": "Modification", "code": "al" },
-		{ "claimName": "Host Cells", "code": "ae" },
-		{ "claimName": "Media", "code": "in" }
-	],
-	"links": [
-		{ "target": 1, "source": 0 },
-		{ "target": 2, "source": 0 },
-		{ "target": 3, "source": 0 },
-		{ "target": 4, "source": 0 },
-		{ "target": 5, "source": 0 },
-		{ "target": 6, "source": 0 },
-		{ "target": 7, "source": 0 },
-		{ "target": 8, "source": 0 },
-		{ "target": 10, "source": 9 },
-		{ "target": 11, "source": 9 },
-		{ "target": 13, "source": 12 },
-		{ "target": 14, "source": 12 },
-		{ "target": 16, "source": 15 },
-		{ "target": 17, "source": 15 },
-		{ "target": 18, "source": 15 },
-		{ "target": 19, "source": 15 },
-		{ "target": 20, "source": 15 },
-		{ "target": 21, "source": 15 },
-		{ "target": 22, "source": 22 },
-		{ "target": 23, "source": 23 },
-		{ "target": 24, "source": 24 },
-		{ "target": 26, "source": 25 },
-		{ "target": 27, "source": 25 },
-		{ "target": 28, "source": 28 },
-		{ "target": 30, "source": 29 },
-		{ "target": 31, "source": 29 },
-		{ "target": 32, "source": 29 },
-		{ "target": 33, "source": 29 }
-	]
+{  
+   "nodes":[  
+      {  
+         "x":208.992345,
+         "y":273.053211,
+         "claimName":"Antibody",
+         "value":20,
+         "group": 1
+      },
+      {  
+         "x":595.98896,
+         "y":56.377057,
+         "claimName":"Antibody Sequence",
+         "value":10,
+         "group": 1
+      },
+      {  
+         "x":319.568434,
+         "y":278.523637,
+         "claimName":"Bi-Specific",
+         "value":10,
+         "group": 1
+      },
+      {  
+         "x":214.494264,
+         "y":214.893585,
+         "claimName":"Function",
+         "value":10,
+         "group": 1
+      },
+      {  
+         "x":482.664139,
+         "y":340.386773,
+         "claimName":"Properties",
+         "value":10,
+         "group": 1
+      },
+      {  
+         "x":84.078465,
+         "y":192.021902,
+         "claimName":"Modified Antibody",
+         "value":10,
+         "group": 1
+      },
+      {  
+         "x":196.952261,
+         "y":370.798667,
+         "claimName":"By Sugar",
+         "value":10,
+         "group": 1,
+         "info": "On Mouse Click Event, Exemplary Claim will be displayed"
+      },
+      {  
+         "x":107.358165,
+         "y":435.15643,
+         "claimName":"Crystal",
+         "value":10,
+         "group": 1
+      },
+      {  
+         "x":401.168523,
+         "y":443.407779,
+         "claimName":"Chimeric",
+         "value":10,
+         "group": 1
+      },
+      {  
+         "x":508.368779,
+         "y":386.665811,
+         "claimName":"Polynucleotide",
+         "value":15,
+         "group": 2
+      },
+      {  
+         "x":355.93773,
+         "y":460.158711,
+         "claimName":"Vector",
+         "value":10,
+         "group": 2
+      },
+      {  
+         "x":283.630624,
+         "y":87.898162,
+         "claimName":"Polynucleotide Sequence",
+         "value":10,
+         "group": 2
+      },
+      {  
+         "x":194.771218,
+         "y":436.366028,
+         "claimName":"Formulation & Composition",
+         "value":15,
+         "group": 3
+      },
+      {  
+         "x":477.520013,
+         "y":337.547331,
+         "claimName":"Macro",
+         "value":10,
+         "group": 3
+      },
+      {  
+         "x":572.98129,
+         "y":453.668459,
+         "claimName":"Micro",
+         "value":10,
+         "group": 3
+      },
+      {  
+         "x":106.717817,
+         "y":235.990363,
+         "claimName":"Treatment",
+         "value":18,
+         "group": 4
+      },
+      {  
+         "x":265.064649,
+         "y":396.904945,
+         "claimName":"Treatment For Condition XYZ",
+         "value":10,
+         "group": 4
+      },
+      {  
+         "x":452.719997,
+         "y":137.886092,
+         "claimName":"Treatment is achieved XYZ",
+         "value":10,
+         "group": 4
+      },
+      {  
+         "x":235.789624,
+         "y":265.567923,
+         "claimName":"Regimen",
+         "value":10,
+         "group": 4
+      },
+      {  
+         "x":145.256789,
+         "y":167.751091,
+         "claimName":"Administration in Combination",
+         "value":10,
+         "group": 4
+      },
+      {  
+         "x":325.908714,
+         "y":376.088729,
+         "claimName":"Inhibiting XYZ",
+         "value":10,
+         "group": 4
+      },
+      {  
+         "x":190.763389,
+         "y":240.987303,
+         "claimName":"Vaccine",
+         "value":10,
+         "group": 4
+      },
+      {  
+         "x":467.983478,
+         "y":290.773973,
+         "claimName":"Prevention",
+         "value":20,
+         "group": 5
+      },
+      {  
+         "x":592.827884,
+         "y":413.837933,
+         "claimName":"Diagnostics",
+         "value":20,
+         "group": 6
+      },
+      {  
+         "x":75.348937,
+         "y":150.384839,
+         "claimName":"Competition",
+         "value":20,
+         "group": 7
+      },
+      {  
+         "x":365.873493,
+         "y":456.279299,
+         "claimName":"Drug Delivery Devices",
+         "value":15,
+         "group": 8
+      },
+      {  
+         "x":100.783687,
+         "y":125.763863,
+         "claimName":"Administration Device",
+         "value":10,
+         "group": 8
+      },
+      {  
+         "x":165.786842,
+         "y":225.736382,
+         "claimName":"Training Device",
+         "value":10,
+         "group": 8
+      },
+      {  
+         "x":365.873493,
+         "y":456.279299,
+         "claimName":"Article of Manufacture",
+         "value":20,
+         "group": 9
+         
+      },
+      {  
+         "x":420.387492,
+         "y":496.893792,
+         "claimName":"Methodology",
+         "value":16,
+         "group": 10
+      },
+      {  
+         "x":600.347987,
+         "y":445.436582,
+         "claimName":"Biomarkers",
+         "value":10,
+         "group": 10
+      },
+      {  
+         "x":467.329822,
+         "y":515.457638,
+         "claimName":"Production",
+         "value":10,
+         "group": 10
+      },
+      {  
+         "x":90.786328,
+         "y":139.987987,
+         "claimName":"Modification",
+         "value":10,
+         "group": 10
+      },
+      {  
+         "x":180.327398,
+         "y":219.897219,
+         "claimName":"Host Cells",
+         "value":10,
+         "group": 10
+      },
+      {  
+         "x":429.987342,
+         "y":490.432797,
+         "claimName":"Media",
+         "value":20,
+         "group": 11
+      }
+   ],
+   "links":[  
+      {  
+         "target":1,
+         "source":0
+      },
+      {  
+         "target":2,
+         "source":0
+      },
+      {  
+         "target":3,
+         "source":0
+      },
+      {  
+         "target":4,
+         "source":0
+      },
+      {  
+         "target":5,
+         "source":0
+      },
+      {  
+         "target":6,
+         "source":0
+      },
+      {  
+         "target":7,
+         "source":0
+      },
+      {  
+         "target":8,
+         "source":0
+      },
+      {  
+         "target":10,
+         "source":9
+      },
+      {  
+         "target":11,
+         "source":9
+      },
+      {  
+         "target":13,
+         "source":12
+      },
+      {  
+         "target":14,
+         "source":12
+      },
+      {  
+         "target":16,
+         "source":15
+      },
+      {  
+         "target":17,
+         "source":15
+      },
+      {  
+         "target":18,
+         "source":15
+      },
+      {  
+         "target":19,
+         "source":15
+      },
+      {  
+         "target":20,
+         "source":15
+      },
+      {  
+         "target":21,
+         "source":15
+      },
+      {  
+         "target":22,
+         "source":22
+      },
+      {  
+         "target":23,
+         "source":23
+      },
+      {  
+         "target":24,
+         "source":24
+      },
+      {  
+         "target":26,
+         "source":25
+      },
+      {  
+         "target":27,
+         "source":25
+      },
+      {  
+         "target":28,
+         "source":28
+      },
+      {  
+         "target":30,
+         "source":29
+      },
+      {  
+         "target":31,
+         "source":29
+      },
+      {  
+         "target":32,
+         "source":29
+      },
+      {  
+         "target":33,
+         "source":29
+      }
+   ]
 }
