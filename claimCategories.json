@@ -1,0 +1,481 @@
+{
+   "name":"Claim Categorization",
+   "children":[
+      {
+         "name":"Antibody",
+         "children":[
+            {
+               "name":"Sequence",
+               "children":[
+                  {
+                     "name":"Variable Region",
+                     "size":3938
+                  },
+                  {
+                     "name":"Full Length",
+                     "size":3812
+                  },
+                  {
+                     "name":"Nano Bodies",
+                     "size":6714
+                  },
+                  {
+                     "name":"Constant Region",
+                     "size":743
+                  }
+               ]
+            },
+            {
+               "name":"Bi-Specific",
+               "children":[
+                  {
+                     "name":"Normal",
+                     "size":3534
+                  },
+                  {
+                     "name":"Single Chain",
+                     "size":5731
+                  }
+               ]
+            },
+            {
+               "name":"Function",
+               "children":[
+                  {
+                     "name":"Affinity",
+                     "size":7074
+                  },
+                  {
+                     "name":"Cytotoxicity",
+                     "size":4523
+                  },
+                  {
+                     "name":"Binding Inhibition",
+                     "size":6278
+                  },
+                  {
+                     "name":"Epitope",
+                     "size":1673
+                  }
+               ]
+            },
+            {
+               "name":"Properties",
+               "children":[
+                  {
+                     "name":"HPLC Properties",
+                     "size":8767
+                  },
+                  {
+                     "name":"Residue",
+                     "size":9772
+                  },
+                  {
+                     "name":"Other",
+                     "size":8768
+                  }
+               ]
+            },
+            {
+               "name":"Modified Antibody",
+               "size":3748
+            },
+            {
+               "name":"By Sugar",
+               "size":1320
+            },
+            {
+               "name":"Crystal",
+               "size":2918
+            },
+            {
+               "name":"Chimeric",
+               "size":9871
+            }
+         ]
+      },
+      {
+         "name":"Polynucleotide",
+         "children":[
+            {
+               "name":"Vector",
+               "size":17010
+            },
+            {
+               "name":"Sequence",
+               "size":5842
+            }
+         ]
+      },
+      {
+         "name":"Formulation & Composition",
+         "children":[
+            {
+               "name":"Macro",
+               "children":[
+                  {
+                     "name":"Dosage Form",
+                     "size":721
+                  },
+                  {
+                     "name":"Pharmaceutical Carrier",
+                     "size":4294
+                  }
+               ]
+            },
+            {
+               "name":"Micro (Concentration, PH, Mass, Conducitivity etc)",
+               "children":[
+                  {
+                     "name":"Components",
+                     "size":1759
+                  },
+                  {
+                     "name":"Hydrodynamic diameter",
+                     "size":3983
+                  },
+                  {
+                     "name":"PH Value",
+                     "size":983
+                  },
+                  {
+                     "name":"Aggregation",
+                     "size":8798
+                  },
+                  {
+                     "name":"Multiple Antibodies",
+                     "size":8743
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Treatment",
+         "children":[
+            {
+               "name":"Treatment for Condition XYZ",
+               "children":[
+                  {
+                     "name":"In Vivo",
+                     "size":8833
+                  },
+                  {
+                     "name":"In Vitro",
+                     "size":1732
+                  },
+                  {
+                     "name":"Sub-population (Ethnicity, Mutations, Weight, Gender?)",
+                     "children":[
+                        {
+                           "name":"Absence of Condition XYZ",
+                           "size":3623
+                        },
+                        {
+                           "name":"Age",
+                           "size":10066
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Second Line Treatment",
+                     "size":4116
+                  },
+                  {
+                     "name":" Prerequisites",
+                     "size":9387
+                  },
+                  {
+                     "name":"W/ Formulation",
+                     "size":38749
+                  },
+                  {
+                     "name":"Treating Signs & Symptons",
+                     "size":87342
+                  },
+                  {
+                     "name":"Treatment with Side Effects",
+                     "size":3479
+                  },
+                  {
+                     "name":"Improving effectiveness of Treatment",
+                     "children":[
+                        {
+                           "name":"Improving Succes Rate",
+                           "size":39872
+                        },
+                        {
+                           "name":"Preventing Adverce Events",
+                           "size":39749
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Mechanism of Action",
+               "size":39874
+            },
+            {
+               "name":"Depletion of B Cells",
+               "size":6567
+            },
+            {
+               "name":"Safety",
+               "size":1389
+            },
+            {
+               "name":"Treatment by which XYZ is achieved",
+               "children":[
+                  {
+                     "name":"In Vivo",
+                     "size":4739
+                  },
+                  {
+                     "name":"In Vitro",
+                     "size":2872
+                  }
+               ]
+            },
+            {
+               "name":"Regimen",
+               "children":[
+                  {
+                     "name":"Constant Dose",
+                     "size":34234
+                  },
+                  {
+                     "name":"Multi-variable Dose",
+                     "size":4590
+                  },
+                  {
+                     "name":"Dose Dependent on XYZ",
+                     "size":43589
+                  },
+                  {
+                     "name":"Administration Frequency",
+                     "size":7646
+                  }
+               ]
+            },
+            {
+               "name":"Administration in Combination",
+               "size":76545
+            },
+            {
+               "name":"Inhibiting XYZ",
+               "children":[
+                  {
+                     "name":"In Vivo",
+                     "size":2312
+                  },
+                  {
+                     "name":"In Vitro",
+                     "size":3223
+                  }
+               ]
+            },
+            {
+               "name":"Vaccine",
+               "size":32143
+            }
+         ]
+      },
+      {
+         "name":"Prevention",
+         "size":34792
+      },
+      {
+         "name":"Diagnostics",
+         "children":[
+            {
+               "name":"Detecting (e.g. TNF)",
+               "children":[
+                  {
+                     "name":"In Vivo",
+                     "size":2312
+                  },
+                  {
+                     "name":"In Vitro",
+                     "size":3223
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Competition",
+         "children":[
+            {
+               "name":"Cross Competition",
+               "size":98473
+            },
+            {
+               "name":"Affinity Competition",
+               "size":4564
+            }
+         ]
+      },
+      {
+         "name":"Drug Delivery Devices",
+         "children":[
+            {
+               "name":"Administration Device (General & Treatment specific)",
+               "children":[
+                  {
+                     "name":"Components",
+                     "size":34673
+                  },
+                  {
+                     "name":"Operation",
+                     "size":34524
+                  }
+               ]
+            },
+            {
+               "name":"Training Device",
+               "size":1389
+            }
+         ]
+      },
+      {
+         "name":"Article of Manufacture",
+         "size":13209
+      },
+      {
+         "name":"Methodology",
+         "children":[
+            {
+               "name":"Biomarkers",
+               "children":[
+                  {
+                     "name":"Efficacy of Treatment",
+                     "size":10093
+                  },
+                  {
+                     "name":"Responsiveness",
+                     "size":21467
+                  },
+                  {
+                     "name":"Monitoring of XYZ",
+                     "size":9678
+                  },
+                  {
+                     "name":"Safety",
+                     "size":13287
+                  }
+               ]
+            },
+            {
+               "name":"Production",
+               "children":[
+                  {
+                     "name":"General Method",
+                     "size":21393
+                  },
+                  {
+                     "name":"Batch Method",
+                     "size":340
+                  },
+                  {
+                     "name":"Condition XYZ Specific",
+                     "size":2787
+                  },
+                  {
+                     "name":"Concentrating",
+                     "size":2139
+                  },
+                  {
+                     "name":"Disulfide bond",
+                     "size":21878
+                  },
+                  {
+                     "name":"Humanisation",
+                     "size":21393
+                  }
+               ]
+            },
+            {
+               "name":"Modification",
+               "children":[
+                  {
+                     "name":"Reducing Impurities",
+                     "size":3876
+                  },
+                  {
+                     "name":"Purificiation",
+                     "children":[
+                        {
+                           "name":"Assay for determining functionality",
+                           "size":890
+                        },
+                        {
+                           "name":"Various Methodologies",
+                           "size":8907
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Galactosylation",
+                     "size":5678
+                  },
+                  {
+                     "name":"PH",
+                     "size":23489
+                  },
+                  {
+                     "name":"Viscosity",
+                     "size":12562
+                  }
+               ]
+            },
+            {
+               "name":"Host Cells",
+               "children":[
+                  {
+                     "name":"Enhancing Protein Expression",
+                     "size":1245
+                  },
+                  {
+                     "name":"Prolonging Viability",
+                     "size":12450
+                  },
+                  {
+                     "name":"Reducing Production of Undesirable XYZ",
+                     "size":12478
+                  },
+                  {
+                     "name":"Reducing Consumption of XYZ",
+                     "size":12412
+                  },
+                  {
+                     "name":"Capable of Producing XYZ",
+                     "size":1256
+                  },
+                  {
+                     "name":"Identified by Deposit  N",
+                     "size":12353
+                  },
+                  {
+                     "name":"Glycoengineered",
+                     "size":1232
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Media",
+         "children":[
+            {
+               "name":"Cell Culture Medium",
+               "size":13290
+            }
+         ]
+      },
+      {
+         "name":"Sequence & Function",
+         "size":3455
+      }
+   ]
+}
