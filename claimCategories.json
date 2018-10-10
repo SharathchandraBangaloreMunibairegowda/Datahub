@@ -1,397 +1,508 @@
-{
-   "name":"Claim Categorization",
-   "children":[
-      {
+{  
+   "name":"Claim Categories",
+   "children":[  
+      {  
          "name":"Antibody",
-         "children":[
-            {
+         "color":"green",
+         "children":[  
+            {  
                "name":"Sequence",
-               "children":[
-                  {
-                     "name":"Variable Region"
+               "color":"green",
+               "children":[  
+                  {  
+                     "name":"Variable Region",
+                     "color":"green"
                   },
-                  {
-                     "name":"Full Length"
+                  {  
+                     "name":"Full Length",
+                     "color":"green"
                   },
-                  {
-                     "name":"Nano Bodies"
+                  {  
+                     "name":"Nano Bodies",
+                     "color":"green"
                   },
-                  {
-                     "name":"Constant Region"
+                  {  
+                     "name":"Constant Region",
+                     "color":"green"
                   }
                ]
             },
-            {
+            {  
                "name":"Bi-Specific",
-               "children":[
-                  {
-                     "name":"Normal"
+               "color":"green",
+               "children":[  
+                  {  
+                     "name":"Normal",
+                     "color":"green"
                   },
-                  {
-                     "name":"Single Chain"
+                  {  
+                     "name":"Single Chain",
+                     "color":"green"
                   }
                ]
             },
-            {
+            {  
                "name":"Function",
-               "children":[
-                  {
-                     "name":"Affinity"
+               "color":"green",
+               "children":[  
+                  {  
+                     "name":"Affinity",
+                     "color":"green"
                   },
-                  {
-                     "name":"Cytotoxicity"
+                  {  
+                     "name":"Cytotoxicity",
+                     "color":"green"
                   },
-                  {
-                     "name":"Binding Inhibition"
+                  {  
+                     "name":"Binding Inhibition",
+                     "color":"green"
                   },
-                  {
-                     "name":"Epitope"
+                  {  
+                     "name":"Epitope",
+                     "color":"green"
                   }
                ]
             },
-            {
+            {  
                "name":"Properties",
-               "children":[
-                  {
-                     "name":"HPLC Properties"
+               "color":"green",
+               "children":[  
+                  {  
+                     "name":"HPLC Properties",
+                     "color":"green"
                   },
-                  {
-                     "name":"Residue"
+                  {  
+                     "name":"Residue",
+                     "color":"green"
                   },
-                  {
-                     "name":"Other"
+                  {  
+                     "name":"Other",
+                     "color":"green"
                   }
                ]
             },
-            {
-               "name":"Modified Antibody"
+            {  
+               "name":"Modified Antibody",
+               "color":"green"
             },
-            {
-               "name":"By Sugar"
+            {  
+               "name":"By Sugar",
+               "color":"green"
             },
-            {
-               "name":"Crystal"
+            {  
+               "name":"Crystal",
+               "color":"green"
             },
-            {
-               "name":"Chimeric"
+            {  
+               "name":"Chimeric",
+               "color":"green"
             }
          ]
       },
-      {
+      {  
          "name":"Polynucleotide",
-         "children":[
-            {
-               "name":"Vector"
+         "color":"yellow",
+         "children":[  
+            {  
+               "name":"Vector",
+               "color":"yellow"
             },
-            {
-               "name":"Sequence"
+            {  
+               "name":"Sequence",
+               "color":"yellow"
             }
          ]
       },
-      {
+      {  
          "name":"Formulation & Composition",
-         "children":[
-            {
+         "color":"blue",
+         "children":[  
+            {  
                "name":"Macro",
-               "children":[
-                  {
-                     "name":"Dosage Form"
+               "color":"blue",
+               "children":[  
+                  {  
+                     "name":"Dosage Form",
+                     "color":"blue"
                   },
-                  {
-                     "name":"Pharmaceutical Carrier"
+                  {  
+                     "name":"Pharmaceutical Carrier",
+                     "color":"blue"
                   }
                ]
             },
-            {
+            {  
                "name":"Micro (Concentration, PH, Mass, Conducitivity etc)",
-               "children":[
-                  {
-                     "name":"Components"
+               "color":"blue",
+               "children":[  
+                  {  
+                     "name":"Components",
+                     "color":"blue"
                   },
-                  {
-                     "name":"Hydrodynamic diameter"
+                  {  
+                     "name":"Hydrodynamic diameter",
+                     "color":"blue"
                   },
-                  {
-                     "name":"PH Value"
+                  {  
+                     "name":"PH Value",
+                     "color":"blue"
                   },
-                  {
-                     "name":"Aggregation"
+                  {  
+                     "name":"Aggregation",
+                     "color":"blue"
                   },
-                  {
-                     "name":"Multiple Antibodies"
+                  {  
+                     "name":"Multiple Antibodies",
+                     "color":"blue"
                   }
                ]
             }
          ]
       },
-      {
+      {  
          "name":"Treatment",
-         "children":[
-            {
+         "children":[  
+            {  
                "name":"Treatment for Condition XYZ",
-               "children":[
-                  {
-                     "name":"In Vivo"
+               "color":"red",
+               "children":[  
+                  {  
+                     "name":"In Vivo",
+                     "color":"red"
                   },
-                  {
-                     "name":"In Vitro"
+                  {  
+                     "name":"In Vitro",
+                     "color":"red"
                   },
-                  {
+                  {  
                      "name":"Sub-population (Ethnicity, Mutations, Weight, Gender?)",
-                     "children":[
-                        {
-                           "name":"Absence of Condition XYZ"
+                     "color":"red",
+                     "children":[  
+                        {  
+                           "name":"Absence of Condition XYZ",
+                           "color":"red"
                         },
-                        {
-                           "name":"Age"
+                        {  
+                           "name":"Age",
+                           "color":"red"
                         }
                      ]
                   },
-                  {
-                     "name":"Second Line Treatment"
+                  {  
+                     "name":"Second Line Treatment",
+                     "color":"red"
                   },
-                  {
-                     "name":" Prerequisites"
+                  {  
+                     "name":" Prerequisites",
+                     "color":"red"
                   },
-                  {
-                     "name":"W/ Formulation"
+                  {  
+                     "name":"W/ Formulation",
+                     "color":"red"
                   },
-                  {
-                     "name":"Treating Signs & Symptons"
+                  {  
+                     "name":"Treating Signs & Symptons",
+                     "color":"red"
                   },
-                  {
-                     "name":"Treatment with Side Effects"
+                  {  
+                     "name":"Treatment with Side Effects",
+                     "color":"red"
                   },
-                  {
+                  {  
                      "name":"Improving effectiveness of Treatment",
-                     "children":[
-                        {
-                           "name":"Improving Succes Rate"
+                     "color":"red",
+                     "children":[  
+                        {  
+                           "name":"Improving Succes Rate",
+                           "color":"red"
                         },
-                        {
-                           "name":"Preventing Adverce Events"
+                        {  
+                           "name":"Preventing Adverce Events",
+                           "color":"red"
                         }
                      ]
                   }
                ]
             },
-            {
-               "name":"Mechanism of Action"
+            {  
+               "name":"Mechanism of Action",
+               "color":"red"
             },
-            {
-               "name":"Depletion of B Cells"
+            {  
+               "name":"Depletion of B Cells",
+               "color":"red"
             },
-            {
-               "name":"Safety"
+            {  
+               "name":"Safety",
+               "color":"red"
             },
-            {
+            {  
                "name":"Treatment by which XYZ is achieved",
-               "children":[
-                  {
-                     "name":"In Vivo"
+               "color":"red",
+               "children":[  
+                  {  
+                     "name":"In Vivo",
+                     "color":"red"
                   },
-                  {
-                     "name":"In Vitro"
+                  {  
+                     "name":"In Vitro",
+                     "color":"red"
                   }
                ]
             },
-            {
+            {  
                "name":"Regimen",
-               "children":[
-                  {
-                     "name":"Constant Dose"
+               "color":"red",
+               "children":[  
+                  {  
+                     "name":"Constant Dose",
+                     "color":"red"
                   },
-                  {
-                     "name":"Multi-variable Dose"
+                  {  
+                     "name":"Multi-variable Dose",
+                     "color":"red"
                   },
-                  {
-                     "name":"Dose Dependent on XYZ"
+                  {  
+                     "name":"Dose Dependent on XYZ",
+                     "color":"red"
                   },
-                  {
-                     "name":"Administration Frequency"
+                  {  
+                     "name":"Administration Frequency",
+                     "color":"red"
                   }
                ]
             },
-            {
-               "name":"Administration in Combination"
+            {  
+               "name":"Administration in Combination",
+               "color":"red"
             },
-            {
+            {  
                "name":"Inhibiting XYZ",
-               "children":[
-                  {
-                     "name":"In Vivo"
+               "color":"red",
+               "children":[  
+                  {  
+                     "name":"In Vivo",
+                     "color":"red"
                   },
-                  {
-                     "name":"In Vitro"
+                  {  
+                     "name":"In Vitro",
+                     "color":"red"
                   }
                ]
             },
-            {
-               "name":"Vaccine"
+            {  
+               "name":"Vaccine",
+               "color":"red"
             }
          ]
       },
-      {
-         "name":"Prevention"
+      {  
+         "name":"Prevention",
+         "color":"orange"
       },
-      {
+      {  
          "name":"Diagnostics",
-         "children":[
-            {
+         "color":"aqua",
+         "children":[  
+            {  
                "name":"Detecting (e.g. TNF)",
-               "children":[
-                  {
-                     "name":"In Vivo"
+               "color":"aqua",
+               "children":[  
+                  {  
+                     "name":"In Vivo",
+                     "color":"aqua"
                   },
-                  {
-                     "name":"In Vitro"
+                  {  
+                     "name":"In Vitro",
+                     "color":"aqua"
                   }
                ]
             }
          ]
       },
-      {
+      {  
          "name":"Competition",
-         "children":[
-            {
-               "name":"Cross Competition"
+         "color":"navy",
+         "children":[  
+            {  
+               "name":"Cross Competition",
+               "color":"navy"
             },
-            {
-               "name":"Affinity Competition"
+            {  
+               "name":"Affinity Competition",
+               "color":"navy"
             }
          ]
       },
-      {
+      {  
          "name":"Drug Delivery Devices",
-         "children":[
-            {
+         "color":"fuchsia",
+         "children":[  
+            {  
                "name":"Administration Device (General & Treatment specific)",
-               "children":[
-                  {
-                     "name":"Components"
+               "color":"fuchsia",
+               "children":[  
+                  {  
+                     "name":"Components",
+                     "color":"fuchsia"
                   },
-                  {
-                     "name":"Operation"
+                  {  
+                     "name":"Operation",
+                     "color":"fuchsia"
                   }
                ]
             },
-            {
-               "name":"Training Device"
+            {  
+               "name":"Training Device",
+               "color":"fuchsia"
             }
          ]
       },
-      {
-         "name":"Article of Manufacture"
+      {  
+         "name":"Article of Manufacture",
+         "color":"olive"
       },
-      {
+      {  
          "name":"Methodology",
-         "children":[
-            {
+         "color":"teal",
+         "children":[  
+            {  
                "name":"Biomarkers",
-               "children":[
-                  {
-                     "name":"Efficacy of Treatment"
+               "color":"teal",
+               "children":[  
+                  {  
+                     "name":"Efficacy of Treatment",
+                     "color":"teal"
                   },
-                  {
-                     "name":"Responsiveness"
+                  {  
+                     "name":"Responsiveness",
+                     "color":"teal"
                   },
-                  {
-                     "name":"Monitoring of XYZ"
+                  {  
+                     "name":"Monitoring of XYZ",
+                     "color":"teal"
                   },
-                  {
-                     "name":"Safety"
+                  {  
+                     "name":"Safety",
+                     "color":"teal"
                   }
                ]
             },
-            {
+            {  
                "name":"Production",
-               "children":[
-                  {
-                     "name":"General Method"
+               "color":"teal",
+               "children":[  
+                  {  
+                     "name":"General Method",
+                     "color":"teal"
                   },
-                  {
-                     "name":"Batch Method"
+                  {  
+                     "name":"Batch Method",
+                     "color":"teal"
                   },
-                  {
-                     "name":"Condition XYZ Specific"
+                  {  
+                     "name":"Condition XYZ Specific",
+                     "color":"teal"
                   },
-                  {
-                     "name":"Concentrating"
+                  {  
+                     "name":"Concentrating",
+                     "color":"teal"
                   },
-                  {
-                     "name":"Disulfide bond"
+                  {  
+                     "name":"Disulfide bond",
+                     "color":"teal"
                   },
-                  {
-                     "name":"Humanisation"
+                  {  
+                     "name":"Humanisation",
+                     "color":"teal"
                   }
                ]
             },
-            {
+            {  
                "name":"Modification",
-               "children":[
-                  {
-                     "name":"Reducing Impurities"
+               "color":"teal",
+               "children":[  
+                  {  
+                     "name":"Reducing Impurities",
+                     "color":"teal"
                   },
-                  {
+                  {  
                      "name":"Purificiation",
-                     "children":[
-                        {
-                           "name":"Assay for determining functionality"
+                     "color":"teal",
+                     "children":[  
+                        {  
+                           "name":"Assay for determining functionality",
+                           "color":"teal"
                         },
-                        {
-                           "name":"Various Methodologies"
+                        {  
+                           "name":"Various Methodologies",
+                           "color":"teal"
                         }
                      ]
                   },
-                  {
-                     "name":"Galactosylation"
+                  {  
+                     "name":"Galactosylation",
+                     "color":"teal"
                   },
-                  {
-                     "name":"PH"
+                  {  
+                     "name":"PH",
+                     "color":"teal"
                   },
-                  {
-                     "name":"Viscosity"
+                  {  
+                     "name":"Viscosity",
+                     "color":"teal"
                   }
                ]
             },
-            {
+            {  
                "name":"Host Cells",
-               "children":[
-                  {
-                     "name":"Enhancing Protein Expression"
+               "color":"teal",
+               "children":[  
+                  {  
+                     "name":"Enhancing Protein Expression",
+                     "color":"teal"
                   },
-                  {
-                     "name":"Prolonging Viability"
+                  {  
+                     "name":"Prolonging Viability",
+                     "color":"teal"
                   },
-                  {
-                     "name":"Reducing Production of Undesirable XYZ"
+                  {  
+                     "name":"Reducing Production of Undesirable XYZ",
+                     "color":"teal"
                   },
-                  {
-                     "name":"Reducing Consumption of XYZ"
+                  {  
+                     "name":"Reducing Consumption of XYZ",
+                     "color":"teal"
                   },
-                  {
-                     "name":"Capable of Producing XYZ"
+                  {  
+                     "name":"Capable of Producing XYZ",
+                     "color":"teal"
                   },
-                  {
-                     "name":"Identified by Deposit  N"
+                  {  
+                     "name":"Identified by Deposit  N",
+                     "color":"teal"
                   },
-                  {
-                     "name":"Glycoengineered"
+                  {  
+                     "name":"Glycoengineered",
+                     "color":"teal"
                   }
                ]
             }
          ]
       },
-      {
+      {  
          "name":"Media",
-         "children":[
-            {
-               "name":"Cell Culture Medium"
+         "color":"maroon",
+         "children":[  
+            {  
+               "name":"Cell Culture Medium",
+               "color":"maroon"
             }
          ]
       },
-      {
-         "name":"Sequence & Function"
+      {  
+         "name":"Sequence & Function",
+         "color":"silver"
       }
    ]
 }
