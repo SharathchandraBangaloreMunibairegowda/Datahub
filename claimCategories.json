@@ -8,20 +8,16 @@
                "name":"Sequence",
                "children":[
                   {
-                     "name":"Variable Region",
-                     "size":3938
+                     "name":"Variable Region"
                   },
                   {
-                     "name":"Full Length",
-                     "size":3812
+                     "name":"Full Length"
                   },
                   {
-                     "name":"Nano Bodies",
-                     "size":6714
+                     "name":"Nano Bodies"
                   },
                   {
-                     "name":"Constant Region",
-                     "size":743
+                     "name":"Constant Region"
                   }
                ]
             },
@@ -29,12 +25,10 @@
                "name":"Bi-Specific",
                "children":[
                   {
-                     "name":"Normal",
-                     "size":3534
+                     "name":"Normal"
                   },
                   {
-                     "name":"Single Chain",
-                     "size":5731
+                     "name":"Single Chain"
                   }
                ]
             },
@@ -42,20 +36,16 @@
                "name":"Function",
                "children":[
                   {
-                     "name":"Affinity",
-                     "size":7074
+                     "name":"Affinity"
                   },
                   {
-                     "name":"Cytotoxicity",
-                     "size":4523
+                     "name":"Cytotoxicity"
                   },
                   {
-                     "name":"Binding Inhibition",
-                     "size":6278
+                     "name":"Binding Inhibition"
                   },
                   {
-                     "name":"Epitope",
-                     "size":1673
+                     "name":"Epitope"
                   }
                ]
             },
@@ -63,34 +53,27 @@
                "name":"Properties",
                "children":[
                   {
-                     "name":"HPLC Properties",
-                     "size":8767
+                     "name":"HPLC Properties"
                   },
                   {
-                     "name":"Residue",
-                     "size":9772
+                     "name":"Residue"
                   },
                   {
-                     "name":"Other",
-                     "size":8768
+                     "name":"Other"
                   }
                ]
             },
             {
-               "name":"Modified Antibody",
-               "size":3748
+               "name":"Modified Antibody"
             },
             {
-               "name":"By Sugar",
-               "size":1320
+               "name":"By Sugar"
             },
             {
-               "name":"Crystal",
-               "size":2918
+               "name":"Crystal"
             },
             {
-               "name":"Chimeric",
-               "size":9871
+               "name":"Chimeric"
             }
          ]
       },
@@ -98,12 +81,10 @@
          "name":"Polynucleotide",
          "children":[
             {
-               "name":"Vector",
-               "size":17010
+               "name":"Vector"
             },
             {
-               "name":"Sequence",
-               "size":5842
+               "name":"Sequence"
             }
          ]
       },
@@ -114,12 +95,10 @@
                "name":"Macro",
                "children":[
                   {
-                     "name":"Dosage Form",
-                     "size":721
+                     "name":"Dosage Form"
                   },
                   {
-                     "name":"Pharmaceutical Carrier",
-                     "size":4294
+                     "name":"Pharmaceutical Carrier"
                   }
                ]
             },
@@ -127,24 +106,19 @@
                "name":"Micro (Concentration, PH, Mass, Conducitivity etc)",
                "children":[
                   {
-                     "name":"Components",
-                     "size":1759
+                     "name":"Components"
                   },
                   {
-                     "name":"Hydrodynamic diameter",
-                     "size":3983
+                     "name":"Hydrodynamic diameter"
                   },
                   {
-                     "name":"PH Value",
-                     "size":983
+                     "name":"PH Value"
                   },
                   {
-                     "name":"Aggregation",
-                     "size":8798
+                     "name":"Aggregation"
                   },
                   {
-                     "name":"Multiple Antibodies",
-                     "size":8743
+                     "name":"Multiple Antibodies"
                   }
                ]
             }
@@ -157,83 +131,67 @@
                "name":"Treatment for Condition XYZ",
                "children":[
                   {
-                     "name":"In Vivo",
-                     "size":8833
+                     "name":"In Vivo"
                   },
                   {
-                     "name":"In Vitro",
-                     "size":1732
+                     "name":"In Vitro"
                   },
                   {
                      "name":"Sub-population (Ethnicity, Mutations, Weight, Gender?)",
                      "children":[
                         {
-                           "name":"Absence of Condition XYZ",
-                           "size":3623
+                           "name":"Absence of Condition XYZ"
                         },
                         {
-                           "name":"Age",
-                           "size":10066
+                           "name":"Age"
                         }
                      ]
                   },
                   {
-                     "name":"Second Line Treatment",
-                     "size":4116
+                     "name":"Second Line Treatment"
                   },
                   {
-                     "name":" Prerequisites",
-                     "size":9387
+                     "name":" Prerequisites"
                   },
                   {
-                     "name":"W/ Formulation",
-                     "size":38749
+                     "name":"W/ Formulation"
                   },
                   {
-                     "name":"Treating Signs & Symptons",
-                     "size":87342
+                     "name":"Treating Signs & Symptons"
                   },
                   {
-                     "name":"Treatment with Side Effects",
-                     "size":3479
+                     "name":"Treatment with Side Effects"
                   },
                   {
                      "name":"Improving effectiveness of Treatment",
                      "children":[
                         {
-                           "name":"Improving Succes Rate",
-                           "size":39872
+                           "name":"Improving Succes Rate"
                         },
                         {
-                           "name":"Preventing Adverce Events",
-                           "size":39749
+                           "name":"Preventing Adverce Events"
                         }
                      ]
                   }
                ]
             },
             {
-               "name":"Mechanism of Action",
-               "size":39874
+               "name":"Mechanism of Action"
             },
             {
-               "name":"Depletion of B Cells",
-               "size":6567
+               "name":"Depletion of B Cells"
             },
             {
-               "name":"Safety",
-               "size":1389
+               "name":"Safety"
             },
             {
                "name":"Treatment by which XYZ is achieved",
                "children":[
                   {
-                     "name":"In Vivo",
-                     "size":4739
+                     "name":"In Vivo"
                   },
                   {
-                     "name":"In Vitro",
-                     "size":2872
+                     "name":"In Vitro"
                   }
                ]
             },
@@ -241,49 +199,40 @@
                "name":"Regimen",
                "children":[
                   {
-                     "name":"Constant Dose",
-                     "size":34234
+                     "name":"Constant Dose"
                   },
                   {
-                     "name":"Multi-variable Dose",
-                     "size":4590
+                     "name":"Multi-variable Dose"
                   },
                   {
-                     "name":"Dose Dependent on XYZ",
-                     "size":43589
+                     "name":"Dose Dependent on XYZ"
                   },
                   {
-                     "name":"Administration Frequency",
-                     "size":7646
+                     "name":"Administration Frequency"
                   }
                ]
             },
             {
-               "name":"Administration in Combination",
-               "size":76545
+               "name":"Administration in Combination"
             },
             {
                "name":"Inhibiting XYZ",
                "children":[
                   {
-                     "name":"In Vivo",
-                     "size":2312
+                     "name":"In Vivo"
                   },
                   {
-                     "name":"In Vitro",
-                     "size":3223
+                     "name":"In Vitro"
                   }
                ]
             },
             {
-               "name":"Vaccine",
-               "size":32143
+               "name":"Vaccine"
             }
          ]
       },
       {
-         "name":"Prevention",
-         "size":34792
+         "name":"Prevention"
       },
       {
          "name":"Diagnostics",
@@ -292,12 +241,10 @@
                "name":"Detecting (e.g. TNF)",
                "children":[
                   {
-                     "name":"In Vivo",
-                     "size":2312
+                     "name":"In Vivo"
                   },
                   {
-                     "name":"In Vitro",
-                     "size":3223
+                     "name":"In Vitro"
                   }
                ]
             }
@@ -307,12 +254,10 @@
          "name":"Competition",
          "children":[
             {
-               "name":"Cross Competition",
-               "size":98473
+               "name":"Cross Competition"
             },
             {
-               "name":"Affinity Competition",
-               "size":4564
+               "name":"Affinity Competition"
             }
          ]
       },
@@ -323,24 +268,20 @@
                "name":"Administration Device (General & Treatment specific)",
                "children":[
                   {
-                     "name":"Components",
-                     "size":34673
+                     "name":"Components"
                   },
                   {
-                     "name":"Operation",
-                     "size":34524
+                     "name":"Operation"
                   }
                ]
             },
             {
-               "name":"Training Device",
-               "size":1389
+               "name":"Training Device"
             }
          ]
       },
       {
-         "name":"Article of Manufacture",
-         "size":13209
+         "name":"Article of Manufacture"
       },
       {
          "name":"Methodology",
@@ -349,20 +290,16 @@
                "name":"Biomarkers",
                "children":[
                   {
-                     "name":"Efficacy of Treatment",
-                     "size":10093
+                     "name":"Efficacy of Treatment"
                   },
                   {
-                     "name":"Responsiveness",
-                     "size":21467
+                     "name":"Responsiveness"
                   },
                   {
-                     "name":"Monitoring of XYZ",
-                     "size":9678
+                     "name":"Monitoring of XYZ"
                   },
                   {
-                     "name":"Safety",
-                     "size":13287
+                     "name":"Safety"
                   }
                ]
             },
@@ -370,28 +307,22 @@
                "name":"Production",
                "children":[
                   {
-                     "name":"General Method",
-                     "size":21393
+                     "name":"General Method"
                   },
                   {
-                     "name":"Batch Method",
-                     "size":340
+                     "name":"Batch Method"
                   },
                   {
-                     "name":"Condition XYZ Specific",
-                     "size":2787
+                     "name":"Condition XYZ Specific"
                   },
                   {
-                     "name":"Concentrating",
-                     "size":2139
+                     "name":"Concentrating"
                   },
                   {
-                     "name":"Disulfide bond",
-                     "size":21878
+                     "name":"Disulfide bond"
                   },
                   {
-                     "name":"Humanisation",
-                     "size":21393
+                     "name":"Humanisation"
                   }
                ]
             },
@@ -399,33 +330,27 @@
                "name":"Modification",
                "children":[
                   {
-                     "name":"Reducing Impurities",
-                     "size":3876
+                     "name":"Reducing Impurities"
                   },
                   {
                      "name":"Purificiation",
                      "children":[
                         {
-                           "name":"Assay for determining functionality",
-                           "size":890
+                           "name":"Assay for determining functionality"
                         },
                         {
-                           "name":"Various Methodologies",
-                           "size":8907
+                           "name":"Various Methodologies"
                         }
                      ]
                   },
                   {
-                     "name":"Galactosylation",
-                     "size":5678
+                     "name":"Galactosylation"
                   },
                   {
-                     "name":"PH",
-                     "size":23489
+                     "name":"PH"
                   },
                   {
-                     "name":"Viscosity",
-                     "size":12562
+                     "name":"Viscosity"
                   }
                ]
             },
@@ -433,32 +358,25 @@
                "name":"Host Cells",
                "children":[
                   {
-                     "name":"Enhancing Protein Expression",
-                     "size":1245
+                     "name":"Enhancing Protein Expression"
                   },
                   {
-                     "name":"Prolonging Viability",
-                     "size":12450
+                     "name":"Prolonging Viability"
                   },
                   {
-                     "name":"Reducing Production of Undesirable XYZ",
-                     "size":12478
+                     "name":"Reducing Production of Undesirable XYZ"
                   },
                   {
-                     "name":"Reducing Consumption of XYZ",
-                     "size":12412
+                     "name":"Reducing Consumption of XYZ"
                   },
                   {
-                     "name":"Capable of Producing XYZ",
-                     "size":1256
+                     "name":"Capable of Producing XYZ"
                   },
                   {
-                     "name":"Identified by Deposit  N",
-                     "size":12353
+                     "name":"Identified by Deposit  N"
                   },
                   {
-                     "name":"Glycoengineered",
-                     "size":1232
+                     "name":"Glycoengineered"
                   }
                ]
             }
@@ -468,14 +386,12 @@
          "name":"Media",
          "children":[
             {
-               "name":"Cell Culture Medium",
-               "size":13290
+               "name":"Cell Culture Medium"
             }
          ]
       },
       {
-         "name":"Sequence & Function",
-         "size":3455
+         "name":"Sequence & Function"
       }
    ]
 }
