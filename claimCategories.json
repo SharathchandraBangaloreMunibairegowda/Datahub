@@ -8,16 +8,16 @@
                "name":"Sequence",
                "children":[
                   {
-                     "name":"Variable Region",
-                     "size":3938
+                     "name":"Variable Region"
+                     
                   },
                   {
-                     "name":"Full Length",
-                     "size":3812
+                     "name":"Full Length"
+                     
                   },
                   {
-                     "name":"Nano Bodies",
-                     "size":6714
+                     "name":"Nano Bodies"
+                     
                   },
                   {
                      "name":"Constant Region",
