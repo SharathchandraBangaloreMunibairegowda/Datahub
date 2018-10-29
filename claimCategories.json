@@ -518,15 +518,7 @@
                "color": "pink",
                "claimReason": "Claim Reason",
                "indClaim": "<p>[IC]</p> Independent Claim",
-               "depClaim1": "<p>[DC]</p> Dependent Claim 1",
-               "depClaim2": "<p>[DC]</p> Dependent Claim 2",
-               "depClaim3": "<p>[DC]</p> Dependent Claim 3",
-               "depClaim4": "<p>[DC]</p> Dependent Claim 4",
-               "depClaim5": "<p>[DC]</p> Dependent Claim 5",
-               "depClaim6": "<p>[DC]</p> Dependent Claim 6",
-               "depClaim7": "<p>[DC]</p> Dependent Claim 7",
-               "depClaim8": "<p>[DC]</p> Dependent Claim 8",
-               "depClaim9": "<p>[DC]</p> Dependent Claim 9",
+               "depClaim1": "<p>[DC]</p> Dependent Claim 1 <p>[DC]</p> Dependent Claim 2",
                "source": "<p>Source:</p> US Patent Numer, Company"
             }
          ]
