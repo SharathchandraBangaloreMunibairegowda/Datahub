@@ -507,20 +507,6 @@
       {  
          "name":"Sequence & Function",
          "color":"silver"
-      },
-      {
-         "name": "abc",
-         "color": "pink",
-         "children":[
-            {
-               "name": "xyz",
-               "color": "pink",
-               "claimReason": "Claim Reason",
-               "indClaim": "<p>[IC]</p> Independent Claim",
-               "depClaim": "<p>[DC]</p> Dependent Claim 1 <p>[DC]</p> Dependent Claim 2",
-               "source": "<p>Source:</p> US Patent Numer, Company"
-            }
-         ]
       }
    ]
 }
