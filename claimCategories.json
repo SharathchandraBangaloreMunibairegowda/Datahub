@@ -1,4 +1,5 @@
-{  
+[
+   {  
    "name":"Claim Categories",
    "children":[  
       {  
@@ -726,3 +727,4 @@
       }
    ]
 }
+]
