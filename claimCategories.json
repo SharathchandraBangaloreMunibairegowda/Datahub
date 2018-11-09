@@ -431,10 +431,6 @@
                   {  
                      "name":"Multi-variable Dose",
                      "color":"red",
-                     "children":[  
-                  {  
-                     "name":"Constant Dose",
-                     "color":"red",
                      "children":[
                         {
                            "name":"SC",
