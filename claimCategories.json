@@ -1,4 +1,4 @@
-{  
+[{  
    "name":"Claim Categories",
    "children":[  
       {  
@@ -725,4 +725,4 @@
          "color":"silver"
       }
    ]
-}
+}];
