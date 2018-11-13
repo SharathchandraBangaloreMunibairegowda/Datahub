@@ -12,10 +12,24 @@
                   {  
                      "name":"Variable Region",
                      "color":"green",
-                     "claimReason":"“... with a light chain variable region (LCVR) having a CDR3 domain comprising the amino acid sequence of SEQ ID NO: 3 ...”",
-                     "indClaim":"<p>[IC]</p>12. An isolated human antibody, or an antigen-binding portion thereof, with a light chain variable region (LCVR) having a CDR3 domain comprising the amino acid sequence of SEQ ID NO: 3, or modified from SEQ ID NO: 3 by a single alanine substitution at position 1, 4, 5, 7 or 8, and with a heavy chain variable region (HCVR) having a CDR3 domain comprising the amino acid sequence of SEQ ID NO: 4, or modified from SEQ ID NO: 4 by a single alanine substitution at position 2, 3, 4, 5, 6, 8, 9, 10 or 11.",
-                     "depClaim":"<p>[DC]</p>13. The isolated human antibody, or an antigen-binding portion thereof, of claim 12, wherein the LCVR further has a CDR2 domain comprising the amino acid sequence of SEQ ID NO: 5 and the HCVR further has a CDR2 domain comprising the amino acid sequence of SEQ ID NO: 6. <p>[DC]</p>14. The isolated human antibody, or an antigen-binding portion thereof, of claim 13, wherein the LCVR further has CDR1 domain comprising the amino acid sequence of SEQ ID NO: 7 and the HCVR has a CDR1 domain comprising the amino acid sequence of SEQ ID NO: 8.",
-                     "source":"<p>Source:</p> US6090382A, Abott Biotech Company: Humira® Product"
+					      "children":[
+					         {
+						         "name":"CDRs",
+						         "color":"green",
+                           "claimReason":"“... with a light chain variable region (LCVR) having a CDR3 domain comprising the amino acid sequence of SEQ ID NO: 3 ...”",
+                           "indClaim":"<p>[IC]</p>12. An isolated human antibody, or an antigen-binding portion thereof, with a light chain variable region (LCVR) having a CDR3 domain comprising the amino acid sequence of SEQ ID NO: 3, or modified from SEQ ID NO: 3 by a single alanine substitution at position 1, 4, 5, 7 or 8, and with a heavy chain variable region (HCVR) having a CDR3 domain comprising the amino acid sequence of SEQ ID NO: 4, or modified from SEQ ID NO: 4 by a single alanine substitution at position 2, 3, 4, 5, 6, 8, 9, 10 or 11.",
+                           "depClaim":"<p>[DC]</p>13. The isolated human antibody, or an antigen-binding portion thereof, of claim 12, wherein the LCVR further has a CDR2 domain comprising the amino acid sequence of SEQ ID NO: 5 and the HCVR further has a CDR2 domain comprising the amino acid sequence of SEQ ID NO: 6. <p>[DC]</p>14. The isolated human antibody, or an antigen-binding portion thereof, of claim 13, wherein the LCVR further has CDR1 domain comprising the amino acid sequence of SEQ ID NO: 7 and the HCVR has a CDR1 domain comprising the amino acid sequence of SEQ ID NO: 8.",
+                           "source":"<p>Source:</p> US6090382A, Abott Biotech Company: Humira® Product"
+						      },
+					      	{
+						         "name":"Framework Region",
+						         "color":"green",
+                           "claimReason":"“… comprises a Framework Region (FR) amino acid substitution at a site selected from the group consisting of 73H, 78H, 93H and 66L …”",
+                           "indClaim":"<p>[IC]</p> 20. A humanized variant of a non-human parent antibody, wherein the humanized variant comprises non-human Complementarity Determining Region (CDR) amino acid residues and human Framework Region (FR) amino acid residues, and; <p>(a)</p> binds the HER2 receptor with an affinity of about 4.7 nM Kd or better affinity; and <p>(b)</p> comprises a Framework Region (FR) amino acid substitution at a site selected from the group consisting of 73H, 78H, 93H and 66L, utilizing the numbering system set forth in Kabat.",
+                           "depClaim":"<p>[DC]</p> 21. The humanized variant of claim 20 which consists of about 1 to about 5 FR substitutions.<p>[DC]</p> 22. The humanized variant of claim 20 which comprises a FR substitution at site 73H.<p>[DC]</p> 23. The humanized variant of claim 20 which comprises a FR substitution at site 78H.<p>[DC]</p> 24. The humanized variant of claim 20 which comprises a FR substitution at site 93H.<p>[DC]</p> 25. The humanized variant of claim 20 which comprises a FR substitution at site 66L.<p>[DC]</p> 26. The humanized variant of claim 20 which further comprises a FR substitution at site 71H.<p>[DC]</p> 27. The humanized variant of claim 26 which comprises FR substitutions at sites 71H, 73H, 78H, 93H and 66L.",
+                           "source":"<p>Source:</p> US6054297A, Genentech Company: Avastin® Product"
+						      }
+					      ]
                   },
                   {  
                      "name":"Full Length",
