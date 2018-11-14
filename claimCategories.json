@@ -707,21 +707,37 @@
 								},
 								{
 									"name": "Various Methodologies",
-									"color": "teal"
+									"color": "teal",
+									"claimReason":"“… process for purifying adalimumab from a fermentation harvest of a Chinese Hamster Ovary …”",
+                                                                        "indClaim":"<p>[IC]</p> 1. A process for purifying adalimumab from a fermentation harvest of a Chinese Hamster Ovary (CHO) cell culture expressing said adalimumab, said process comprising: <p>(a)</p> binding adalimumab from said fermentation harvest to a Protein A resin, <p>(b)</p> eluting the bound adalimumab at an elution pH of 3.6-4, and <p>(c)</p> incubating the eluted adalimumab for 1 to 3 hours.",
+                                                                        "depClaim":"<p>[DC]</p> 2. The process of claim 1, wherein said eluting is at an elution pH is 3.6.<p>[DC]</p> 3. The process of claim 1, wherein said eluting is at an elution pH of 3.7.<p>[DC]</p> 4. The process of claim 1, wherein said eluting is at an elution pH of 3.8.<p>[DC]</p> 5. The process of claim 1, wherein said eluting is at an elution pH of 4.<p>[DC]</p> 6. The process of claim 1, further comprising after said incubating, subjecting adalimumab to one or more further chromatographic separations, wherein said one or more further chromatographic separations comprise an ion exchange chromatography, a hydrophobic interactive chromatography or a combination thereof.<p>[DC]</p> 7. The process of claim 1, further comprising subjecting adalimumab to an ion exchange chromatography after said incubating.<p>[DC]</p> 8. The process of claim 7, wherein said ion exchange chromatography is cation exchange chromatography.<p>[DC]</p> 9. The process of claim 7, wherein said ion exchange chromatography is anion exchange chromatography.<p>[DC]</p> 10. The process of claim 1, further comprising subjecting adalimumab to a hydrophobic interaction chromatography after said incubating.<p>[DC]</p> 11. The process of claim 1, further comprising determining the monomer level of adalimumab purified according to said process.<p>[DC]</p> 12. The process of claim 1, wherein the adalimumab monomer level after said incubating is greater than 97%.<p>[DC]</p> 13. The process of claim 1, wherein the purified adalimumab is pharmaceutical grade.",
+                                                                        "source":"<p>Source:</p> US9018361B2, Abott Biotech Company: Humira® Product"
 								}
 							]
 						},
 						{
 							"name": "Galactosylation",
-							"color": "teal"
+							"color": "teal",
+							"claimReason":"“… method for modifying the glycosylation profile of a polypeptide …”",
+                                                        "indClaim":"<p>[IC]</p> 2. A method for modifying the glycosylation profile of a polypeptide produced by a mammalian host cell, comprising introducing into said host cell an expression vector which comprises an isolated nucleic acid comprising a sequence encoding a fusion polypeptide, wherein said fusion polypeptide has (1,4)-N-acetylglucosaminyltransferase III activity and comprises the Golgi localization domain of mannosidase II, and wherein said modified polypeptide has increased Fcreceptor binding or effector function as a result of said modification.",
+                                                        "depClaim":"<p>[DC]</p> 3. A method according to claim 1 or 2, wherein said polypeptide is IgG or a fragment thereof.<p>[DC]</p> 4. A method according to claim 3, wherein said polypeptide is IgG1 or a fragment thereof.<p>[DC]</p> 5. A method according to claim 3, wherein said polypeptide is a fusion protein that includes a region equivalent to the Fc region of a human IgG.",
+                                                        "source":"<p>Source:</p> US8367374B2, Roche Company: Gazyva® Product"
 						},
 						{
 							"name": "PH",
-							"color": "teal"
+							"color": "teal",
+							"claimReason":"“… comprising formulating the antibody in an arginine acetate buffer, pH 4.5 to 6.0 …”",
+                                                        "indClaim":"<p>[IC]</p> 2. A method for reducing aggregation of a therapeutic monoclonal antibody, comprising formulating the antibody in an arginine acetate buffer, pH 4.5 to 6.0, wherein the antibody is bevacizumab.",
+                                                        "depClaim":"<p>[DC]</p> 3. The method of claim 2, wherein the buffer is an arginine acetate buffer, pH 4.5 to 5.5.<p>[DC]</p> 4. The method of claim 2, wherein the buffer is an arginine acetate buffer, pH 4.8 to 5.4.<p>[DC]</p> 5. The method of claim 2, wherein the buffer is an arginine acetate buffer, pH 5.2.<p>[DC]</p> 6. The method of claim 3, wherein the arginine actetate concentration in the buffer is from about 25 mM to about 250 mM.<p>[DC]</p> 7. The method of claim 3, wherein the arginine actetate concentration in the buffer is from about 50 mM to about 250 mM.<p>[DC]</p> 8. The method of claim 3, wherein the arginine actetate concentration in the buffer is from about 75 mM to about 250 mM.<p>[DC]</p> 9. The method of claim 3, wherein the arginine actetate concentration in the buffer is from about 100 mM to about 250 mM.<p>[DC]</p> 10. The method of claim 3, wherein the arginine acetate concentration in the buffer is from about 120 mM to about 240 mM.<p>[DC]</p> 11. The method of claim 3, wherein arginine acetate concentration in the buffer is from about 150 mM to about 225 mM.<p>[DC]</p> 12. The method of claim 3, wherein the arginine acetate concentration in the buffer is about 200 mM.<p>[DC]</p> 13. The method of claim 2, wherein the formulation further comprises a surfactant.<p>[DC]</p> 14. The method of claim 13, wherein the surfactant is polysorbate.<p>[DC]</p> 15. The method of claim 14, wherein the polysorbate is polysorbate 20.<p>[DC]</p> 16. The method of claim 13, wherein the surfactant concentration is from 0.0001% to about 1.0%.<p>[DC]</p> 17. The method of claim 13, wherein the surfactant concentration is from about 0.01% to about 0.05%.<p>[DC]</p> 18. The method of claim 13, wherein the surfactant concentration is 0.04%.<p>[DC]</p> 19. The method of claim 2, wherein the antibody concentration is from about 10 mg/ml to about 250 mg/ml.<p>[DC]</p> 20. The method of claim 2, wherein the antibody concentration is from about 25 mg/ml to 200 mg/ml.<p>[DC]</p> 21. The method of claim 2, wherein the antibody concentration is from about 50 mg/ml to about 150 mg/ml.<p>[DC]</p> 22. The method of claim 2, wherein the antibody concentration is from about 75 mg/ml to about 125 mg/ml.<p>[DC]</p> 23. The method of claim 2, wherein the antibody is not subject to prior lyophilization.",
+                                                        "source":"<p>Source:</p> US9226961B2, Genentech Company: Avastin® Product"
 						},
 						{
 							"name": "Viscosity",
-							"color": "teal"
+							"color": "teal",
+ 							"claimReason":"“… method of reducing the viscosity to about 50 cs or less of a subcutaneous formulation …”",
+                                                        "indClaim":"<p>[IC]</p> 1. A method of reducing the viscosity to about 50 cs or less of a subcutaneous formulation containing 100 mg/ml of a monoclonal antibody comprising the addition of a salt in an amount greater than 100 mM, wherein the salt is selected from the group consisting of arginine hydrochloride, sodium thiocyanate, ammonium thiocyanate, ammonium sulfate, ammonium chloride, calcium chloride, zinc chloride and sodium acetate.",
+                                                        "depClaim":"<p>[DC]</p> 2. The method of claim 1 wherein said salt is added in an amount greater than 100 to about 200 mM.<p>[DC]</p> 3. The method of claim 2 wherein the amount of added salt is about 200 mM.<p>[DC]</p> 4. The method of claim 1 wherein said antibody is directed against IgE.<p>[DC]</p> 5. The method of claim 4 wherein the antibody is rhuMAb-E25.<p>[DC]</p> 6. The method of claim 4, wherein the antibody is rhuMAb-E26.<p>[DC]</p> 7. The method of claim 4, wherein the antibody is rhuMAb-E27.<p>[DC]</p> 8. The method of claim 1 wherein said formulation is a reconstituted lyophilized formulation.<p>[DC]</p> 9. The method of claim 8 wherein the protein concentration in said reconstituted formulation is about 2-40 times greater than the protein concentration in the mixture before lyophilization.<p>[DC]</p> 10. The method of claim 1 wherein the formulation is hypertonic.<p>[DC]</p> 11. The method of claim 1, wherein the viscosity is about 40 cs or less.<p>[DC]</p> 12. The method of claim 1, wherein the viscosity is about 30 cs or less.<p>[DC]</p> 13. The method of claim 1, wherein the viscosity is about 20 cs or less.<p>[DC]</p> 14. The method of claim 1, wherein the viscosity is about 10 to 30 cs.<p>[DC]</p> 15. The method of claim 1, wherein the added salt is arginine hydrochloride.<p>[DC]</p> 16. The method of claim 1, wherein the added salt is sodium thiocyanate.<p>[DC]</p> 17. The method of claim 1, wherein the added salt is ammonium thiocyanate.<p>[DC]</p> 18. The method of claim 1, wherein the added salt is ammonium sulfate.<p>[DC]</p> 19. The method of claim 1, wherein the added salt is ammonium chloride.<p>[DC]</p> 20. The method of claim 1, wherein the added salt is calcium chloride.<p>[DC]</p> 21. The method of claim 1, wherein the added salt is sodium acetate.",
+                                                        "source":"<p>Source:</p> US7666413B2, Genentech Company: Xolair® Product"
 						}
 					]
 				},
@@ -730,31 +746,59 @@
 					"color": "teal",
 					"children": [{
 							"name": "Enhancing Protein Expression",
-							"color": "teal"
+							"color": "teal",
+						        "claimReason":"“… method of improving or enhancing the ability of a population of host cells that express a recombinant protein …”",
+                                                        "indClaim":"<p>[IC]</p> 32. A method of improving or enhancing the ability of a population of host cells that express a recombinant protein to adapt to growth in the presence of methotrexate comprising the step of: inserting into host cells a recombinant expression vector comprising: a recombinant gene encoding a recombinant protein of interest, a recombinant expression vector element (rEVE) polynucleotide molecule comprising a sequence selected from the group consisting of SEQ ID NO:1, SEQ ID NO:2, a portion of SEQ ID NO:1, a portion of SEQ ID NO:2, and combinations thereof, and a dihydrofolate reductase (DHFR) gene; wherein a population of the host cells containing the recombinant expression vector has a higher survivability and/or higher growth rate when grown in the presence of methotrexate compared to a population of host cells carrying the same recombinant expression vector lacking the rEVE polynucleotide molecule.",
+                                                        "depClaim":"<p>[DC]</p> 33. The method according to claim 32, wherein said methotrexate is present at a concentration in the range of 5 nM to 10 M.<p>[DC]</p> 34. The method according to claim 32, wherein said host cell is a CHO host cell.",
+                                                        "source":"<p>Source:</p> US7935808B2, Abott Biotech Company: Humira® Product"
 						},
 						{
 							"name": "Prolonging Viability",
-							"color": "teal"
+							"color": "teal",
+							"claimReason":"“… A method of prolonging host cell viability in a cell culture …”",
+                                                        "indClaim":"<p>[IC]</p> 21. A method of prolonging host cell viability in a cell culture, comprising the steps of: <p>(a)</p> providing a vector comprising a gene encoding caspase-9 dominant negative protein, <p>(b)</p> providing a vector comprising a gene encoding a protein of interest, <p>(c)</p> providing a Chinese hamster ovary (CHO) host cell, <p>(d)</p> transforming or transfecting the host cell with the vector of steps (a) and (b), <p>(e)</p> providing cell culture media, <p>(f)</p> culturing the transformed or transfected host cell in the cell culture media under conditions sufficient for expression of the protein of interest and an amount of caspase-9 dominant negative protein which is effective for prolonging viability of the host cells in the cell culture, and optionally <p>(g)</p> recovering or purifying the protein of interest from the host cell and/or the cell culture media.",
+                                                        "depClaim":"<p>[DC]</p> None.",
+                                                        "source":"<p>Source:</p> US6586206B1, Genentech Company: Avastin® Product"
 						},
 						{
 							"name": "Reducing Production of Undesirable XYZ",
-							"color": "teal"
+							"color": "teal",
+							"claimReason":"“… method for reducing lactate production in cultured cells …”",
+                                                        "indClaim":"<p>[IC]</p> 1. A method for reducing lactate production in cultured cells, the method comprising culturing cells comprising a first heterologous nucleic acid sequence encoding a small interfering RNA (siRNA) specific for a lactate dehydrogenase (LDH) and a second heterologous nucleic acid sequence encoding an siRNA specific for a pyruvate dehydrogenase kinase (PDHK), wherein the first heterologous nucleic acid sequence is operably linked to a first promoter, and wherein the second heterologous nucleic acid sequence is operably linked to a second promoter, wherein the cultured cells have a polypeptide productivity of at least about 68% higher than cultured cells without the heterologous nucleic acid sequence comprising siRNA specific for PDHK and the siRNA specific for LDH.",
+                                                        "depClaim":"<p>[DC]</p> 2. The method of claim 1, wherein the LDH is LDHa.<p>[DC]</p> 3. The method of claim 1, wherein the cultured cells further comprise a third heterologous nucleic acid sequence encoding an siRNA specific for a second PDHK and wherein the third heterologous nucleic acid sequence is operably linked to a third promoter.<p>[DC]</p> 4. The method of claim 3, wherein the cultured cells further comprise a fourth heterologous nucleic acid sequence encoding an siRNA specific for a third PDHK and wherein the fourth heterologous nucleic acid sequence is operably linked to a fourth promoter.<p>[DC]</p> 5. The method of claim 4, wherein cultured cells further comprise a fifth heterologous nucleic acid sequence encoding an siRNA specific for a fourth PDHK and wherein the fifth heterologous nucleic acid sequence is operably linked to a fifth promoter.<p>[DC]</p> 6. The method of any one of claims 1, 3, 4, and 5, wherein the PDHK is selected from the group consisting of PDHK1, PDHK2, PDHK3, and PDHK4.<p>[DC]</p> 7. The method of claim 1, wherein the cultured cells produce a heterologous polypeptide.<p>[DC]</p> 8. The method of claim 7, wherein the heterologous polypeptide is an antibody.<p>[DC]</p> 9. The method of claim 4, wherein an average lactate production rate of the cultured cells is less than about negative 0.02 mg/106 cells/day.<p>[DC]</p> 10. The method of claim 4, wherein the cultured cells have a Specific Productivity of at least about 75% higher than cultured cells without the heterologous nucleic acid sequence comprising the siRNA specific for PDHKs and the siRNA specific for LDH.<p>[DC]</p> 11. The method of claim 4, wherein the cultured cells maintain an osmolality at less than about 300 mOsm over 14 days.<p>[DC]</p> 12. The method of claim 7, wherein the cultured cells are mammalian cells.",
+                                                        "source":"<p>Source:</p> US9487809B2, Genentech Company: Avastin® Product"
 						},
 						{
 							"name": "Reducing Consumption of XYZ",
-							"color": "teal"
+							"color": "teal",
+							"claimReason":"“… method for reducing glucose consumption during cultivation of CHO, myeloma, or hybridoma cells …”",
+                                                        "indClaim":"<p>[IC]</p> 1. A method for reducing glucose consumption during cultivation of CHO, myeloma, or hybridoma cells, comprising cultivating CHO, myeloma, or hybridoma cells in culture medium in the presence of citric acid or citrate wherein said citric acid or citrate is maintained at a concentration of about 1 to 50 mmol/l during cultivation and wherein said citric acid or citrate is not bound in a chelate complex with iron or another transition metal ion.",
+                                                        "depClaim":"<p>[DC]</p> 2. The method of claim 1, wherein the cells are myeloma cells.<p>[DC]</p> 3. The method of claim 1, wherein the cells are hybridoma or CHO cells.",
+                                                        "source":"<p>Source:</p> US7390660B2, Genentech Company: Herceptin® Product"
 						},
 						{
 							"name": "Capable of Producing XYZ",
-							"color": "teal"
+							"color": "teal",
+							"claimReason":"“… hybridoma capable of producing an antibody that is capable of reacting specifically with …”",
+                                                        "indClaim":"<p>[IC]</p> 1. A hybridoma capable of producing an antibody that is capable of reacting specifically with a B cell stimulating factor-2 receptor protein that consists of the following amino acid sequence (I).",
+                                                        "depClaim":"<p>[DC]</p> None.",
+                                                        "source":"<p>Source:</p> US5480796A, Genentech Company: Actemra® Product"
 						},
 						{
 							"name": "Identified by Deposit  N",
-							"color": "teal"
+							"color": "teal",
+							"claimReason":"“…  a hybridoma identified by international deposit accession number FERM BP-6264 …”",
+                                                        "indClaim":"<p>[IC]</p> 1. An antibody which specifically binds to osteoclastogenesis inhibitory factor binding molecule (OBM), wherein said antibody is antibody H-OBM 1, produced by a hybridoma identified by international deposit accession number FERM BP-6264.",
+                                                        "depClaim":"<p>[DC]</p> 2. A hybridoma that produces the antibody of claim 1.<p>[DC]</p> 3. A composition comprising the antibody of claim 1 and one or more agents selected from the group consisting of a stabilizer, a pH adjuster, a buffering agent, a solubility agent and a detergent.",
+                                                        "source":"<p>Source:</p> US7449185B2, Amgen Company: Xgeva® Product"
 						},
 						{
 							"name": "Glycoengineered",
-							"color": "teal"
+							"color": "teal",
+							"claimReason":"“… glycoengineered Chinese Hamster Ovary …”",
+                                                        "indClaim":"<p>[IC]</p> 1. A glycoengineered Chinese Hamster Ovary cell that expresses a recombinant antibody comprising an IgG Fc region or fragment thereof containing N-linked oligosaccharides, wherein said Chinese Hamster Ovary cell has been genetically manipulated to have altered activity of at least one glycoprotein-modifying glycosyltransferase, wherein said antibody has an altered pattern of glycosylation in the Fc region compared to the corresponding antibody produced by the same Chinese Hamster Ovary cell that has not been glycoengineered, and wherein said antibody has increased Fc-mediated cellular cytotoxicity as a result of said altered glycosylation.",
+                                                        "depClaim":"<p>[DC]</p> None.",
+                                                        "source":"<p>Source:</p> US7906329B2, Roche Company: Gazyva® Product"
 						}
 					]
 				}
@@ -765,12 +809,20 @@
 			"color": "maroon",
 			"children": [{
 				"name": "Cell Culture Medium",
-				"color": "maroon"
+				"color": "maroon",
+				"claimReason":"“… ready-to-use glutamine-free cell culture medium containing asparagine for the production of a polypeptide in a production phase …”",
+                                "indClaim":"<p>[IC]</p> 25. A ready-to-use glutamine-free cell culture medium containing asparagine for the production of a polypeptide in a production phase, wherein the asparagine is at a concentration in the range of 7.5 mM to 15 mM.",
+                                "depClaim":"<p>[DC]</p> None.",
+                                "source":"<p>Source:</p> US8512983B2, Genentech Company: Avastin® Product"
 			}]
 		},
 		{
 			"name": "Sequence & Function",
-			"color": "silver"
+			"color": "silver",
+			"claimReason":"“... dissociates from human TNF with a Koff rate constant of 1×10-3 s-1 or less ...” & “... has a light chain CDR3 domain comprising the amino acid sequence of SEQ ID NO: 3 ...”",
+                        "indClaim":"<p>[IC]</p> 9. An isolated human antibody, or antigen-binding portion thereof, with the following characteristics: <p>(a)</p> dissociates from human TNF with a Koff rate constant of 1×10-3 s-1 or less, as determined by surface plasmon resonance; <p>(b)</p> has a light chain CDR3 domain comprising the amino acid sequence of SEQ ID NO: 3, or modified from SEQ ID NO: 3 by a single alanine substitution at position 1, 4, 5, 7 or 8 or by one to five conservative amino acid substitutions at positions 1, 3, 4, 6, 7, 8 and/or 9; <p>(c)</p> has a heavy chain CDR3 domain comprising the amino acid sequence of SEQ ID NO: 4, or modified from SEQ ID NO: 4 by a single alanine substitution at position 2, 3, 4, 5, 6, 8, 9, 10 or 11 or by one to five conservative amino acid substitutions at positions 2, 3, 4, 5, 6, 8, 9, 10, 11 and/or 12.",
+                        "depClaim":"<p>[DC]</p> 10. The isolated human antibody of claim 9, or an antigen-binding portion thereof, which dissociates from human TNF with a Koff rate constant of 5×10-4 s-1 or less.<p>[DC]</p> 11. The isolated human antibody of claim 9, or an antigen-binding portion thereof, which dissociates from human TNF with a Koff rate constant of 1×10-4 s-1 or less.",
+                        "source":"<p>Source:</p> US6090382A, Abott Biotech Company: Humira® Product"
 		}
 	]
 }
